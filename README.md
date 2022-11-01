@@ -1,16 +1,15 @@
-### Hi there I'm Emre.
 
-<!--
-**emretiramis/emretiramis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src="https://github.com/emretiramis/gif/blob/main/IuOF.gif" align="right" width="400" height="200">
+    
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# Hi there I'm Emre.
+## Java developer | Student.
+#####    I'm Computer Engineering (1/4) student. 
+#####    I want to share my work here and help people.
+#####    I'm currently learning Java and sharing Java codes.
+  
+  
+  
+  
+  
+  
