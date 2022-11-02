@@ -4,12 +4,14 @@
 
 # Hi there, I'm Emre.
 ## Java developer | Student
-    I'm Computer Engineering (1/4) student. 
-    I want to share my work here and help people.
-    I'm currently learning Java and sharing Java codes.
+         
+    It was the first time I had met a computer  
+    with a crt monitor and I was four years old. 
+    After that, everything has changed for me :).
   
-  
-  
-  
-  
-  
+    
+    
+<details>
+ <summary>:bulb: Github Stats </summary>
+<img src="https://github-readme-stats.vercel.app/api?username=emretiramis&theme=highcontrast"  >
+</details>
