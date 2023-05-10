@@ -3,7 +3,7 @@
     
 
 # Hi there, I'm Emre.
-## Java developer | Student
+## Computer engineering Student
          
     It was the first time I had met a computer  
     with a crt monitor and I was four years old. 
