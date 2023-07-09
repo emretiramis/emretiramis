@@ -1,5 +1,5 @@
 
-<img src="https://github.com/emretiramis/emretiramis/blob/main/giff.gif" align="right" width="400" height="200">
+<img src="https://github.com/emretiramis/emretiramis/blob/main/giff.gif" align="right" width="400">
     
 
 # Hi there, I'm Emre.
